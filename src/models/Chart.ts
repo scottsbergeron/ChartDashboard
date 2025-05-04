@@ -1,5 +1,3 @@
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-import React from 'react';
 import { DataRequest } from './DataRequest';
 
 export interface ChartProps {
